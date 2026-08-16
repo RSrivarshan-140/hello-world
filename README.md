@@ -1,2 +1,2 @@
 # hello-world
-My  program on git hub
+My  program on git hub repository
